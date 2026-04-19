@@ -23,8 +23,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 </div>
 
-### 🕹 Live Project:
-- https://emmycalculatorapp.netlify.app
 
 ## Who can contribute
  Anyone interested in contributing to open source project can contribute to this, It is a beginner friendly web application built with HTML, CSS, and JavaScript
