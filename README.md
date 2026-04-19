@@ -61,8 +61,6 @@ Now you know some basic terms, let's get into how to get started with some resou
 
 - Drop a :star: on the GitHub repository (optional)<br/>
 
-- Before Contribute Please read [CONTRIBUTING.md](https://github.com/Emilance/Javascript-Calculator-App/blob/master/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/Emilance/Javascript-Calculator-App/blob/master/CODE_OF_CONDUCT.md)
-
 - Create an issue of the project or a feature you would like to add to the project and get the task assigned for yourself. (Issue can be any bug fixes or any feature you want to add to this project).
 
 - Fork the repo to your GitHub.<br/>
@@ -81,12 +79,3 @@ Now you know some basic terms, let's get into how to get started with some resou
   `git push --set-upstream origin <your branch name>`
 
 - Make a pull request! (compare your branch with the owner's main branch)
-
-## Contributors : 
-<br>
-<h1 align="center">
- <b>Our Amazing Contributors🌟
-<h1>
-<a href="https://github.com/Emilance/Javascript-Calculator-App/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Emilance/Javascript-Calculator-App&&max=817" />
-</a>
